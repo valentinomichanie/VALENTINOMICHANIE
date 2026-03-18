@@ -24,7 +24,7 @@ Estoy cursando el **último año** de la secundaria técnica. Me apasiona transf
 ---
 
 ### 📈 Mi actividad en GitHub
-!(https://github-readme-stats.vercel.app/api?username=valentinomichanie&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=valentinomichanie&show_icons=true&theme=radical
 
 ---
 <p align="center"> Valentino Michanie</p>
