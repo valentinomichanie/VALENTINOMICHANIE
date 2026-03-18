@@ -8,8 +8,8 @@ Estoy cursando el **último año** de la secundaria técnica. Me apasiona transf
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en proyectos escolares con **Python** y **Web**.
 - 🌱 Aprendiendo constantemente sobre buenas prácticas de código y diseño de interfaces.
-- 📫 Cómo contactarme: [Tu Email] o por [LinkedIn/Discord].
-- ⚡ Dato curioso: [Algo interesante tuyo, ej: Me gusta el ajedrez / Hago música / etc.]
+- 📫 Cómo contactarme: valentinomichanie@epet12smandes.edu.ar .
+  
 
 ---
 
@@ -24,7 +24,7 @@ Estoy cursando el **último año** de la secundaria técnica. Me apasiona transf
 ---
 
 ### 📈 Mi actividad en GitHub
-![Tu estadística](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=[valentinomichanie]&show_icons=true&theme=radical)
 
 ---
 <p align="center"> Valentino Michanie</p>
