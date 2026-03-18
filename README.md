@@ -66,7 +66,6 @@ Soy un estudiante técnico con formación en **Electrónica y Computación**, cu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentinomichanie&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinomichanie&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -80,8 +79,8 @@ Soy un estudiante técnico con formación en **Electrónica y Computación**, cu
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🐦 Twitter |
-|----------|-------------|------------|
+| 📧 Email | 💼 LinkedIn | 
+|----------|-------------|
 | dragon911yt@gmail.com(mailto:tu@email.com) | [LinkedIn](https://www.linkedin.com/in/valentino-michanie-b366843b8/) |
 
 </div>
