@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Valentino Michanie
 
-<!--
-**valentinomichanie/VALENTINOMICHANIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Desarrollo de Software | EPET 12
+Estoy cursando el **último año** de la secundaria técnica. Me apasiona transformar ideas en código y estoy buscando oportunidades para seguir aprendiendo y crecer como desarrollador.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente trabajando en proyectos escolares con **Python** y **Web**.
+- 🌱 Aprendiendo constantemente sobre buenas prácticas de código y diseño de interfaces.
+- 📫 Cómo contactarme: [Tu Email] o por [LinkedIn/Discord].
+- ⚡ Dato curioso: [Algo interesante tuyo, ej: Me gusta el ajedrez / Hago música / etc.]
+
+---
+
+### 🛠️ Mis Herramientas y Tecnologías
+
+| Backend & Datos | Frontend & Diseño | Herramientas |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | |
+
+---
+
+### 📈 Mi actividad en GitHub
+![Tu estadística](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical)
+
+---
+<p align="center"> Valentino Michanie</p>
