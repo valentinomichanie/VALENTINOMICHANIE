@@ -26,8 +26,8 @@ Soy un estudiante técnico con formación en **Electrónica y Computación**, cu
 
 |  Período |  Institución | 📖 Especialidad |
 |------------|---------------|-----------------|
-| 2021 - 2024 | EPET 12 | Técnico en Electrónica y Computación |
-| 2025+ | 🎯 Universidad | Ingeniería Electrónica (Próximamente) |
+| 2021 - 2026 | EPET 12 | Técnico en Electrónica y Computación |
+| 2027+ | 🎯 Universidad | Ingeniería Electrónica (Próximamente) |
 
 ---
 
