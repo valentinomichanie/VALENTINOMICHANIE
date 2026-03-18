@@ -3,7 +3,7 @@
 ### 🎓 Estudiante de Desarrollo de Software | EPET 12
 Estoy cursando el **último año** de la secundaria técnica. Me apasiona transformar ideas en código y estoy buscando oportunidades para seguir aprendiendo y crecer como desarrollador.
 
----
+./img/wp7844419-lateralus-wallpapers.jpg
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en proyectos escolares con **Python** y **Web**.
